@@ -20,9 +20,11 @@ For our project, we designed a simple Python GUI application that allows people 
 ## File Structure
 ```
 c:\Users\-\Humanitarian SOS SMS\
-├── main.py           # The main app
-├── messages.json     # Created automatically with your messages
-└── README.md         # This file
+├── main.py                    # The main app
+├── messages.json              # Created automatically with your messages
+├── phone background.png       # In-APP pop-up window background
+├── testing.py                 # Features testing script
+└── README.md                  # This file
 ```
 
 ## How to Run
@@ -88,6 +90,7 @@ Greta & Bishoy
     │   └── testing.py              # Done
     └── Readability                 # Done
 ```
+
 
 
 
