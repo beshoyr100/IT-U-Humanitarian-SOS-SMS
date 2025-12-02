@@ -74,17 +74,18 @@ Greta & Bishoy
 ```
 ├── Idea/
 │   ├── Definition                  # Done
-│   └── Presentation                # 
-├── Design/                         # (Diagrams)
-│   ├── Usage                       # (e.g., class, activity)
-│   │   └── Flowchart.png           #
-│   └── Coverage                    #
-└── Code/                           # 
-    ├── IO                          # 
-    ├── OOP                         # 
-    ├── Functionality               # (NO bug)
-    ├── Testing/                    # 
-    │   └── Test_Scripts.py
-    └── Readability                 # Done (type hints, naming, clean code)
+│   └── Presentation                # Done
+├── Design/                          
+│   ├── Usage                       # Done
+│   │   └── Flowchart.png           # Done
+│   └── Coverage                    # Done
+└── Code/                           
+    ├── IO                          # Done
+    ├── OOP                         # Done
+    ├── Functionality               # Done
+    ├── Testing/
+    │   └── testing.py              # Done
+    └── Readability                 # Done
 ```
+
 
