@@ -10,6 +10,7 @@ For our project, we designed a simple Python GUI application that allows people 
 - **"+" Button**: Opens a message input window to add new messages #annonymosly#.
 - **Dataset**: Messages are saved to a JSON file (`messages.json`) *A sort of a simple database just for now*.
 - **Auto-close**: The input window closes automatically after sending a message.
+- **coordinates**: Coordinates have been added for each message to help identify the location of the person requesting help. This feature is not fully implemented yet; the current values are generated placeholders to illustrate the concept.
 
 ## Prerequisites
 
@@ -87,5 +88,6 @@ Greta & Bishoy
     │   └── testing.py              # Done
     └── Readability                 # Done
 ```
+
 
 
