@@ -24,6 +24,7 @@ c:\Users\-\Humanitarian SOS SMS\
 ├── messages.json              # Created automatically with your messages
 ├── phone background.png       # In-APP pop-up window background
 ├── testing.py                 # Features testing script
+├── Pseudocode.txt             # Pseudocode file
 └── README.md                  # This file
 ```
 
@@ -90,6 +91,7 @@ Greta & Bishoy
     │   └── testing.py              # Done
     └── Readability                 # Done
 ```
+
 
 
 
